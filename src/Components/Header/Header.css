@@ -1,0 +1,106 @@
+.header{
+    width: 100%;
+    background: #3067f0;
+    padding: 3px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-icon{
+    height: 45px;
+}
+.left-header-items{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigator{
+    margin-left: 20px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.active-navigator{
+    margin-left: 20px;
+        color: #ffffff;
+        font-weight: 600;
+        border-bottom: 2px solid;
+}
+.right-navigator{
+    color: #ffffff;
+    font-weight: 600;
+    margin-right: 5px;
+}
+.fund-transfer-container{
+    display: flex;
+    width: 80%;
+    background: white;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: 0px -1px 6px -1px #858585;
+    text-align: left;
+}
+.fund-transfer-icon-container{
+    width: 51px;
+    background: #e5eff9;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.f-t-heading{
+    padding: 10px;
+    font-weight: 800;
+}
+.f-t-subheading{
+    padding: 0px 19px  10px  10px;
+}
+.highliter{
+    background: #eeeeef;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    padding: 8px;
+}
+.from-to-container{
+    justify-content: space-between;
+}
+.w-45{
+    width:45%
+}
+.transfer-button{
+    background-color: #3067f0;
+    margin-top: 15px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    padding:9px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.label-f{
+    font-size: 12px;
+    color: #858585;
+}
+.percent{
+    color: #858585;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.j-space-between{
+    justify-content: space-between;
+}
+.active-per{
+    color: #000;;
+}
+.msg-otp{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 9px;
+}
+.center{
+    margin: auto;
+}
